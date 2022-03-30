@@ -52,6 +52,15 @@
     picomatch "^2.3.1"
     slash "^3.0.0"
 
+"@adonisjs/auth@^8.0.12":
+  version "8.0.12"
+  resolved "https://registry.yarnpkg.com/@adonisjs/auth/-/auth-8.0.12.tgz#7d2bb9f043cc4d8a4788cc4107a7c7479d28c25c"
+  integrity sha512-LoNsg+z289hlxBbzQJTA68cIhMLV5N4ty64A40Yly6+tDo51+n4Q/sqHpAj9OKZHlGbMK5fP3DRgLdRl/Uli+w==
+  dependencies:
+    "@poppinss/hooks" "^5.0.2"
+    "@poppinss/utils" "^4.0.2"
+    luxon "^2.3.1"
+
 "@adonisjs/bodyparser@^8.1.0":
   version "8.1.0"
   resolved "https://registry.npmjs.org/@adonisjs/bodyparser/-/bodyparser-8.1.0.tgz"
@@ -65,6 +74,13 @@
     file-type "^16.5.3"
     fs-extra "^10.0.1"
     media-typer "^1.1.0"
+
+"@adonisjs/bouncer@^2.2.6":
+  version "2.2.6"
+  resolved "https://registry.yarnpkg.com/@adonisjs/bouncer/-/bouncer-2.2.6.tgz#d66dcba4d4ec3adaa0d3ce0071e67e58f8ca2073"
+  integrity sha512-ousfNcVYvtrH/mFio7NWYwk7+Djf3is2kkbdgGSWVuInYyndSxxj/D8q+0Z1265+x+Xyr6WxBzWt7XcBJF7khQ==
+  dependencies:
+    "@poppinss/utils" "^4.0.2"
 
 "@adonisjs/config@^3.0.7":
   version "3.0.7"
